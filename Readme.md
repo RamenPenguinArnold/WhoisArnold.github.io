@@ -1,0 +1,1 @@
+This page will work exactly like a standard website, 
