@@ -1,0 +1,54 @@
+.profile
+{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+body
+{
+    background-color: aquamarine;
+}
+ul.navlist
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    background-color: black;
+    width: auto;
+}
+header
+{
+    text-align: center;
+}
+ul.navlist > li
+{
+    display: inline;
+    text-align: center;
+    border: 1px;
+    border-color: beige;
+    
+}
+a{
+    padding: 11px;
+    
+}
+a:visited
+{
+    color: beige;
+    text-decoration: none;
+}
+a:link
+{
+    color: beige;
+    text-decoration: none;
+}
+p
+{
+    text-align: center;
+    font-size: large;
+}
+.intro
+{
+    text-align: center;
+}

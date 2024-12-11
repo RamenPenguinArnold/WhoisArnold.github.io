@@ -1,1 +1,1 @@
-This page will work exactly like a standard website, 
+This page will work exactly like a standard website, each aspect of the final project will be placeed in the labeled site portion in the nav bar. If working outside of the site, open 
