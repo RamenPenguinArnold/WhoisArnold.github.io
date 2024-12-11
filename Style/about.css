@@ -53,3 +53,7 @@ a:link
 {
     text-align: center;
 }
+.siteTitle
+{
+    text-decoration:underline;
+}
