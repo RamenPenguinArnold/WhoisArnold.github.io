@@ -9,7 +9,7 @@ body
 {
     background-color: aquamarine;
 }
-ul.navlist
+.navlist
 {
     list-style-type: none;
     margin: 0;
@@ -21,7 +21,7 @@ header
 {
     text-align: center;
 }
-ul.navlist > li
+.navlist > li
 {
     display: inline;
     text-align: center;
@@ -43,7 +43,7 @@ a:link
     color: beige;
     text-decoration: none;
 }
-p
+.bio
 {
     text-align: center;
     font-size: large;
