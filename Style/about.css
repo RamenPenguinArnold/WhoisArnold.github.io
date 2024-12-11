@@ -1,59 +1,47 @@
-.profile
-{
-    width: 200px;
-    height: 200px;
-    display: block;
-    margin: auto;
-    border-radius: 50%;
+.profile {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
 }
-body
-{
-    background-color: aquamarine;
+body {
+  background-color: aquamarine;
 }
-.navlist
-{
-    list-style-type: none;
-    margin: 0;
-    padding: 10px;
-    background-color: black;
-    width: auto;
+.navlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  background-color: black;
+  width: auto;
 }
-header
-{
-    text-align: center;
+header {
+  text-align: center;
 }
-.navlist > li
-{
-    display: inline;
-    text-align: center;
-    border: 1px;
-    border-color: beige;
-    
+.navlist > li {
+  display: inline;
+  text-align: center;
+  border: 1px;
+  border-color: beige;
 }
-a{
-    padding: 11px;
-    
+a {
+  padding: 11px;
 }
-a:visited
-{
-    color: beige;
-    text-decoration: none;
+a:visited {
+  color: beige;
+  text-decoration: none;
 }
-a:link
-{
-    color: beige;
-    text-decoration: none;
+a:link {
+  color: beige;
+  text-decoration: none;
 }
-.bio
-{
-    text-align: center;
-    font-size: large;
+.bio {
+  text-align: center;
+  font-size: large;
 }
-.intro
-{
-    text-align: center;
+.intro {
+  text-align: center;
 }
-.siteTitle
-{
-    text-decoration:underline;
+.siteTitle {
+  text-decoration: underline;
 }

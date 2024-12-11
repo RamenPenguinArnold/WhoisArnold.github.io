@@ -1,14 +1,11 @@
-.skills > *
-{
-
-    text-align:left;
+.skills > * {
+  text-align: left;
 }
 .grid-container {
-    display: grid;
-    grid-template-columns: auto auto ;
-    padding: 10px;
-  }
-  .grid-item3
-  {
-    grid-column: 1 / span 2;
-  }
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
+.grid-item3 {
+  grid-column: 1 / span 2;
+}
