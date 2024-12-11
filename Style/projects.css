@@ -12,3 +12,7 @@ ol
 {
     display: flex;
 }
+.project:nth-child()
+{
+    list-style-type: none;
+}
