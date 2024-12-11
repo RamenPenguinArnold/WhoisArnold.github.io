@@ -1,0 +1,14 @@
+.projectLink:link
+{
+    color: #0b19da;
+    text-decoration: underline;
+}
+.projectLink:visited
+{
+    color: #0b19da;
+    text-decoration: underline;
+}
+ol
+{
+    display: flex;
+}
