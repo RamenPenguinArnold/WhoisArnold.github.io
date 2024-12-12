@@ -1,1 +1,2 @@
-This page will work exactly like a standard website, each aspect of the final project will be placeed in the labeled site portion in the nav bar. If working outside of the site, open 
+### Read Me ###
+This page will work exactly like a standard website, each aspect of the final project will be placeed in the labeled site portion in the nav bar. This is all hosted on github pages and it should open upon heading to [ramenpenguinarnold.github.io](https://ramenpenguinarnold.github.io/)
