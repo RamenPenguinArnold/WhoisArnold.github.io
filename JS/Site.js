@@ -10,5 +10,7 @@ form.addEventListener("submit", (event) => {
   localStorage.setItem("Email",inputEmail);
   const check = document.getElementById("checker");
   check.textContent = "Is this right," +  localStorage.getItem("Name")+"?" +"\n"+ "The Email is " +localStorage.getItem("Email");
+  localStorage.removeItem("Name");
+  localStorage.removeItem("Email");
   event.preventDefault();
 });
